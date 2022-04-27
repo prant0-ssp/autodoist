@@ -1,0 +1,2 @@
+requests>=2.25.1
+todoist_python>=8.1.3
